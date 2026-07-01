@@ -3,7 +3,7 @@
 ## Airline Reservation & Travel Assistance
 
 GitHub Pages URL:
-https://getlivesupport.github.io/airlinespremiumservice/
+https://getlivesupport.github.io/airlinespremiumservice
 
 This repository contains the website for Billpy Services LLC, providing informational travel assistance related to airline reservations, itinerary changes, and cancellation guidance.
 
